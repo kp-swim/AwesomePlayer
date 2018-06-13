@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AwesomePlayer</string>
+    <string name="play_next_setting">play_next</string>
+    <string name="author">Krzysztof Pilarczyk</string>
+    <string name="description">Hi. I\'m professional android developer with biiiiiig experience.Visit my github: github.com/radiator0</string>
+    <string name="shake_switch_setting">shake_switch_setting</string>
+    <string name="night_switch_setting">night_switch_setting</string>
+</resources>
